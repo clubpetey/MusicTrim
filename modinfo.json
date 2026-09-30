@@ -1,0 +1,12 @@
+{
+  "type": "code",
+  "modid": "musictrim",
+  "name": "Music Trim",
+  "description": "Lowers base-game music volume so quieter mod music tracks match it.",
+  "authors": ["ClubPetey"],
+  "version": "1.0.2",
+  "side": "client",
+  "requiredOnClient": false,
+  "requiredOnServer": false,
+  "dependencies": { "game": "1.22.0" }
+}
